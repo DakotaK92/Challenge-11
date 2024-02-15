@@ -4,7 +4,7 @@ With the assignment I was tasked with making a Note Taking journal. You can writ
 
 You can also find this assignment on Heroku!
 
-## Deployed:
+## Deployed: https://dakotak92.github.io/Challenge-11-Note-Taker/
 ## Heroku:
 
 ## Screenshot
