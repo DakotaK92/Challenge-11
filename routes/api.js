@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 let notes = require('../db/db.json');
-//const { v4: uuidv4 } = require('uuid');
+const { v4: uuidv4 } = require('uuid');
 
 
 // GET /api/notes (return db.json)
@@ -21,7 +21,7 @@ router.post('/notes', (req, res) => {
         const newNote = {
             title,
             text,
-            //id: uuidv4(),
+            id: uuidv4(),
         };
 
         //push new note into notes (JSON)
