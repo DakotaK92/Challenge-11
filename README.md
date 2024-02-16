@@ -1,6 +1,6 @@
 ## Express.js: Note Taker
 
-With the assignment I was tasked with making a Note Taking journal. You can write a heading to your task and then fill in the description. After you complete your task you can erase it.
+For this assignment I was tasked with making a Note Taking journal. You can write a heading to your task and then fill in the description. After you complete your task you can erase it.
 
 You can also find this assignment on Heroku!
 
